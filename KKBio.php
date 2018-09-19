@@ -5,15 +5,13 @@
 <!--			bio and randomly displays a quote 							-->
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 	<!-- Page Title-->
 	<title>Khaliq Khan's Short Bio</title>
 
-	<head>
 		<!-- Style sheet for the format of the informtion on the page -->
   		<link rel="stylesheet" href="style.css">
-	</head>
 	<body>
 		
 		<!-- include PHP with random quote generator -->
