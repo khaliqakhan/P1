@@ -1,7 +1,7 @@
 # Project 1
 
 - By: Khaliq Khan
-- Production URL: [http://p1.yourdomain.com](http://p1.yourdomain.com/)
+- Production URL: [http://p1.khaliqakhan.com](http://206.189.234.128/p1/KKBio.php)
 
 ## Outside resources
 
