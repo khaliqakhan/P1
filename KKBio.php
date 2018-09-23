@@ -11,7 +11,7 @@
 	<title>Khaliq Khan's Short Bio</title>
 
 		<!-- Style sheet for the format of the informtion on the page -->
-  		<link rel="stylesheet" href="style.css">
+  		<link rel="stylesheet" href="Style.css">
 	<body>
 		
 		<!-- include PHP with random quote generator -->
